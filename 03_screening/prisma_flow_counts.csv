@@ -1,0 +1,10 @@
+stage,count,notes
+n_records_identified_database_search,,
+n_duplicate_records_removed,,
+n_records_screened_title_abstract,,
+n_records_excluded_title_abstract,,
+n_full_texts_sought,,
+n_full_texts_not_retrieved,,
+n_full_texts_assessed,,
+n_full_texts_excluded,,
+n_studies_included,,
