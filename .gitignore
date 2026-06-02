@@ -1,0 +1,40 @@
+# PDFs and reference files
+*.pdf
+*.docx
+*.ris
+*.nbib
+*.enw
+*.xlsx
+
+# macOS
+.DS_Store
+
+# Temporary files
+~$*
+
+# Private/sensitive directories
+/private_pdfs/
+/zotero_exports/
+/large_files/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs (commit only summary tables)
+outputs/
+!outputs/summary_tables/
