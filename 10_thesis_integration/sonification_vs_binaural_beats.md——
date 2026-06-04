@@ -1,0 +1,25 @@
+# Sonification vs. Binaural Beats: A Critical Distinction
+
+Binaural auditory beat stimulation (BABS) and sonification are fundamentally different auditory interventions that must not be conflated.
+
+## Binaural Auditory Beat Stimulation
+
+A psychoacoustic phenomenon: two pure tones of slightly different frequencies presented separately to each ear. The brain perceives a third beat at the difference frequency. Proposed to entrain cortical oscillations (top-down neuromodulation). The stimulus IS the intervention. Direction: stimulus changes the listener's neural state.
+
+## Sonification
+
+The transformation of data or movement into sound. In the thesis context: real-time conversion of sine-wave motor template or movement data into an auditory signal. Mechanism: closed-loop auditory feedback supporting motor learning via error detection and timing cues. The MOVEMENT generates the sound. Direction: movement drives sound, which feeds back to guide learning.
+
+## Why This Distinction Matters
+
+1. Different mechanisms: BABS = entrainment hypothesis. Sonification = error feedback and predictive motor control.
+2. 2. Different experimental roles: BABS delivers a fixed stimulus before/during a task. Sonification derives sound from the task itself.
+   3. 3. Different outcome logic: BABS asks 'does X Hz change cognition?' Sonification asks 'does hearing your movement improve it?'
+      4. 4. Different translational claims: This scoping review does NOT claim binaural beats are sonification. The translational link is indirect: BABS research identifies which neural states and frequencies are relevant to motor control; sonification addresses how to deliver task-relevant auditory feedback.
+        
+         5. ## Cross-Reference
+        
+         6. - 01_protocol/operational_definitions.md
+            - - 10_thesis_integration/thesis_bridge_memo.md
+              - - 09_figures/conceptual_model/
+                - 
